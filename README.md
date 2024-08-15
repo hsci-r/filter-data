@@ -1,7 +1,7 @@
 # FILTER corpus
 
 This repository stores the publicly available part of the dataset used in the
-[FILTER](https://blogs.helsinki.fi/filter-project/] project as a set of
+[FILTER](https://blogs.helsinki.fi/filter-project/) project as a set of
 plain-text files (CSV, GeoJSON).
 
 It is the result of running the
